@@ -30,7 +30,7 @@ The analysis evaluates the financial performance and position of the company usi
 ## Key Insights
 - Financial trends over the study period were analyzed
 - Strengths and weaknesses of the company were identified
-- Ratios were used to assess financial stability and performance
+- Ratios were used to assess financial stability and performance of the company
 
 ## Conclusion
 Based on the financial and ratio analysis, conclusions were drawn regarding the financial health and performance of boAt (Imagine Marketing Pvt. Ltd.) during the period 2020–2024.
